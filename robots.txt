@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://retrobusinesssieve.github.io/sitemap.xml
